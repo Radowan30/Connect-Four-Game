@@ -1,4 +1,4 @@
-#Connect Four game made with C++
+# Connect Four game made with C++
 
 - I used OOP concepts such as Aggregation, Composition, Inheritance, and Polymorphism to implement this program.
 - It allows two players to take turns to play a match, and at the end the winner is declared with their favorite adjective!
